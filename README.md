@@ -1,5 +1,7 @@
 # Diabetes Research Project
 
+# Collaborator: gift-eme
+
 ## Overview
 
 This project aims to analyze and predict diabetes-related outcomes using various machine learning algorithms. The research is conducted in Python, leveraging popular data science libraries such as pandas, scikit-learn, and matplotlib. The project also includes a research paper detailing the methodology, experiments, and findings.
