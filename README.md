@@ -1,6 +1,8 @@
 # Diabetes Research Project
 
-# Collaborator: gift-eme
+# collaborators:
+## -@ImonEmmanuel: Project Lead & Model Development
+## -@gift-eme: Python script development and preprocessing support
 
 ## Overview
 
